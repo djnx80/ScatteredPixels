@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1455123420 source:d:\cb\rozrzucone_piksele\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
+1446964368 d:\cb\rozrzucone_piksele\allegrostart.h
+
+1455113842 source:d:\cb\rozrzucone_piksele\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1455113842 source:k:\cb\rozrzucone_piksele\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1446964368 k:\cb\rozrzucone_piksele\allegrostart.h
+
+1455123420 source:k:\cb\rozrzucone_piksele\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
+1455123420 source:l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\rozrzucone_piksele\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
+1446964368 l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\rozrzucone_piksele\allegrostart.h
+
+1455113842 source:l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\rozrzucone_piksele\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1466366347 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\rozrzucone_piksele\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
+1446964368 f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\rozrzucone_piksele\allegrostart.h
+
+1466593913 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\rozrzucone_piksele\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1467659685 source:i:\cb\rozrzucone_piksele\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1446964368 i:\cb\rozrzucone_piksele\allegrostart.h
+
+1467659701 source:i:\cb\rozrzucone_piksele\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
